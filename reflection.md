@@ -8,15 +8,13 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
----
+I noticed that the hints given were the opposite of what they should have been. I received hints to guess higher numbers to arrive at the correct answer in cases where the hints should have suggested to guess higher. Furthermore, I noticed that although the secret number does reset when the new game button is pressed, the game does not allow for new guesses to be registered in-order to truly start a new game once a single game has been lost or won. As for the last issue, numbers outside the range are occasionally chosen as the secret number.
 
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
-
----
 
 ## 3. Debugging and testing your fixes
 
